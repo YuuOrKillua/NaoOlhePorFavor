@@ -12,7 +12,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[0].id)
 engine.setProperty('rate', 150)
 
-TOKEN = 'OTU3MDU3MDE4ODU2ODY1ODUz.Yj5Ozg.O1qp1pPWz_0o5_ZxyHGurhBcGl0'
+TOKEN = 'SECRET'
 
 intents = discord.Intents.all()
 intents.members = True
